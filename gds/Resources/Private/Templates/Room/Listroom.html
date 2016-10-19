@@ -1,0 +1,23 @@
+<html xmlns:f="http://typo3.org/ns/fluid/ViewHelpers">
+    <f:layout name="defaultLayout" />
+    
+    <f:section name="content">
+        <h3>Liste des room</h3>
+        <p><b>Return V_xml_FlexForm:</b> {v_xml_section}</p>
+        <p><b>Return V_message_FlexForm:</b> {v_message}</p>
+        <p><b>Return V_header_FlexForm:</b> {v_header}</p>
+        <p><b>Return V_page_FlexForm:</b> {v_page}</p>
+        <p>Debut table</p>
+        <hr />
+        <table>
+            <f:for each="{rooms}" as="room">
+                <tr>
+                    <td><b>Record:</b><f:debug title="Results of customers query">{room}</f:debug><f:link.action action="show"> {room.name} {room.color} {room.nbchair} </f:link.action></td>
+                </tr>
+            </f:for>
+        </table>
+        <hr />
+        <p>Fin table</p>
+        <f:link.action action="show">Example link to action "show"</f:link.action>
+    </f:section>
+</html>

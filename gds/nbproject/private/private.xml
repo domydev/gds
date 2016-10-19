@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/web/htdocs/spike-typo3/typo3conf/ext/gds/ext_conf_template.txt</file>
+            <file>file:/C:/web/htdocs/spike-typo3/typo3conf/ext/gds/Configuration/TCA/tx_gds_domain_model_room.php</file>
+            <file>file:/C:/web/htdocs/spike-typo3/typo3conf/ext/gds/Classes/Domain/Repository/RoomRepository.php</file>
+            <file>file:/C:/web/htdocs/spike-typo3/typo3conf/ext/gds/Resources/Private/Templates/Desk/Show.html</file>
+            <file>file:/C:/web/htdocs/spike-typo3/typo3conf/ext/gds/Classes/Controller/DeskController.php</file>
+            <file>file:/C:/web/htdocs/spike-typo3/typo3conf/ext/gds/Resources/Private/Templates/Desk/Index.html</file>
+            <file>file:/C:/web/htdocs/spike-typo3/typo3conf/ext/gds/ext_tables.sql</file>
+            <file>file:/C:/web/htdocs/spike-typo3/typo3conf/ext/gds/ext_tables.php</file>
+            <file>file:/C:/web/htdocs/spike-typo3/typo3conf/ext/gds/ext_localconf.php</file>
+            <file>file:/C:/web/htdocs/spike-typo3/typo3conf/ext/gds/Resources/Private/Layouts/DefaultLayout.html</file>
+            <file>file:/C:/web/htdocs/spike-typo3/typo3conf/ext/gds/Configuration/FlexForms/FlexForm.xml</file>
+            <file>file:/C:/web/htdocs/spike-typo3/typo3conf/ext/gds/Classes/Domain/Model/Desk.php</file>
+            <file>file:/C:/web/htdocs/spike-typo3/typo3conf/ext/gds/ext_emconf.php</file>
+            <file>file:/C:/web/htdocs/spike-typo3/typo3conf/ext/gds/Classes/Domain/Model/Room.php</file>
+            <file>file:/C:/web/htdocs/spike-typo3/typo3conf/ext/gds/Classes/Controller/RoomController.php</file>
+            <file>file:/C:/web/htdocs/spike-typo3/typo3conf/ext/gds/Resources/Private/Templates/Desk/Beindex.html</file>
+            <file>file:/C:/web/htdocs/spike-typo3/typo3conf/ext/gds/Classes/Domain/Repository/DeskRepository.php</file>
+            <file>file:/C:/web/htdocs/spike-typo3/typo3conf/ext/gds/Configuration/TCA/tx_gds_domain_model_desk.php</file>
+            <file>file:/C:/web/htdocs/spike-typo3/typo3conf/ext/gds/ext_icon.gif</file>
+        </group>
+    </open-files>
+</project-private>
